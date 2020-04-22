@@ -41,7 +41,7 @@
                 </div>
                 @yield('content')
                 <p class="small login-copyright text-center">
-                    Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/" target="_blank">Pterodactyl Software</a>.<br />
+                    Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/" target="_blank">Pterodactyl Software</a>. <a href="https://serenitylabs.co.uk/" target="_blank">Theme Created By Serenity Labs</a><br />
                 </p>
             </div>
         </div>

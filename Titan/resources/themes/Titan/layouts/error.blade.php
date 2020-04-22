@@ -56,7 +56,7 @@
                 <div class="pull-right hidden-xs small text-gray">
                     <strong>v</strong> {{ config('app.version') }}
                 </div>
-                Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/">Pterodactyl Software</a>.
+                Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/">Pterodactyl Software</a>. <a href="https://serenitylabs.co.uk/" target="_blank">Theme Created By Serenity Labs</a>
             </footer>
         </div>
         @section('footer-scripts')
